@@ -65,6 +65,7 @@ Hier sehen Sie, wie Picocrypt im Vergleich zu anderen gängigen Verschlüsselung
 Bedenken Sie, dass Picocrypt zwar die meisten Dinge besser kann als andere Werkzeuge, aber es ist keine Einheitslösung und versucht auch nicht, eine zu sein. Es gibt Anwendungsfälle wie die Verschlüsselung der gesamten Festplatte, für die VeraCrypt und BitLocker die bessere Wahl wären. Auch wenn Picocrypt für die meisten Menschen eine gute Wahl ist, sollten Sie sich dennoch informieren und das verwenden, was für Sie am besten geeignet ist.
 
 Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
+
 # Eigenschaften
 
 Picocrypt ist ein sehr einfaches Werkzeug, und die meisten Benutzer werden intuitiv in wenigen Sekunden verstehen, wie man es benutzt. Um Ihre Dateien zu verschlüsseln, müssen Sie lediglich Ihre Dateien auf das Fenster ziehen, ablegen, ein Passwort eingeben und auf "Encrypt" klicken. Um eine verschlüsselte Datei zu entschlüsseln, ziehen Sie die Datei auf das Fenster, geben Sie das Passwort ein und klicken Sie auf "Decrypt". Ziemlich einfach, oder?
@@ -133,14 +134,14 @@ Ich möchte mich von ganzem Herzen bei den Leuten von Open Collective bedanken, 
 
 <ul>
 	<li>Guest ($842)</li>
-  	<li>YellowNight ($818)</li>
-  	<li>evelian ($50)</li>
+  <li>YellowNight ($818)</li>
+  <li>evelian ($50)</li>
 	<li>jp26 ($50)</li>
 	<li>guest-116103ad ($50)</li>
 	<li>Guest ($27)</li>
 	<li>oli ($20)</li>
 	<li>Markus (15$)</li>
-  	<li>Bright ($15)</li>
+  <li>Bright ($15)</li>
 	<li>Tybbs ($10)</li>
 	<li>N. Chin ($10)</li>
 	<li>Manjot ($10)</li>
@@ -173,8 +174,8 @@ Ein großer Dank geht auch an diese Leute, die geholfen haben, die README von Pi
 	<li>yn & Voron für Russisch</li>
 	<li>@Etim-Orb für Ungarisch</li>
 	<li>@Minibus93 für Italienisch</li>
-  	<li>Michel für Französisch</li>
-  	<li>@MasterKia für Persisch</li>
+  <li>Michel für Französisch</li>
+  <li>@MasterKia für Persisch</li>
 	<li>@ungespurv für Polnisch</li>
 	<li>qaqland für Chinesisch</li>
 </ul>
@@ -182,13 +183,13 @@ Ein großer Dank geht auch an diese Leute, die geholfen haben, die README von Pi
 Schließlich möchte ich mich bei diesen Leuten/Organisationen dafür bedanken, dass sie mir im Bedarfsfall geholfen haben:
 
 <ul>
-  	<li>[ REDACTED ] für die Hilfe beim Erstellen eines AppImage für Picocrypt</li>
-  	<li>u/Upstairs-Fishing867 für die Hilfe beim Testen der OpenPGP Signaturen</li>
+  <li>[ REDACTED ] für die Hilfe beim Erstellen eines AppImage für Picocrypt</li>
+  <li>u/Upstairs-Fishing867 für die Hilfe beim Testen der OpenPGP Signaturen</li>
 	<li>u/greenreddits für ständiges Feedback und Unterstützung</li>
 	<li>u/Tall_Escape für die Hilfe beim Testen von Picocrypt</li>
 	<li>u/NSABackdoors für die Durchführung zahlreicher Tests</li>
 	<li>@samuel-lucas6 für Feedback, Vorschläge und Unterstützung</li>
-  	<li><a href="https://privacytools.io">PrivacyToolsIO</a> für die Aufnahme von Picocrypt</li>
+  <li><a href="https://privacytools.io">PrivacyToolsIO</a> für die Aufnahme von Picocrypt</li>
 	<li><a href="https://privacyguides.org">PrivacyGuides</a> für die Aufnahme von Picocrypt</li>
 	<li>...Dir?</li>
 </ul>
